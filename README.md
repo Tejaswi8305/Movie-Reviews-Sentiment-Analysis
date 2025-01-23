@@ -25,11 +25,6 @@ This project implements a sentiment analysis model to classify movie reviews as 
 - Matplotlib / Seaborn
 
 ## Dataset
-The dataset used for this project consists of movie reviews labeled as positive or negative. You can find the dataset [here](link-to-dataset) (replace with the actual link if applicable).
+The dataset used for this project consists of movie reviews labeled as positive or negative. You can find the dataset [here] https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
-## Getting Started
-To get a local copy up and running, follow these steps:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Tejaswi8305/Movie-Reviews-Sentiment-Analysis.git
